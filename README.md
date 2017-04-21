@@ -9,6 +9,6 @@ Deep Learning Useful Links - feel free to contribute
 # Books
 * [Deep Learning Book - Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 # Blogs
-* [João Paulo Melo](joaopaulomelo.wordpress.com)
+* [João Paulo Melo](http://www.joaopaulomelo.wordpress.com)
 # Tools
 # Others
